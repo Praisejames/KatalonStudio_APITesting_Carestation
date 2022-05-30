@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case to test Create User API request</description>
+   <name>Create User Request Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8d2a6fd-c25c-4468-9e0d-e72b92987678</testCaseGuid>
+</TestCaseEntity>
